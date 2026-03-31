@@ -89,7 +89,7 @@ Created a one-page visual infographic using **Canva** covering:
 - Safe internet practices
 - Professional online presence tips
 
-📎 [View Infographic → task-1-presentation/](./task-1-presentation/)
+📎 [View Infographic → task-1-presentation]
 
 ---
 
