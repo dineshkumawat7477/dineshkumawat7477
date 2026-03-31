@@ -15,6 +15,9 @@
 ![Branch](https://img.shields.io/badge/Branch-CSE-0077b6?style=for-the-badge&logo=code&logoColor=white)
 ![Year](https://img.shields.io/badge/Year-1st-43b8c9?style=for-the-badge&logo=calendar&logoColor=white)
 ![University](https://img.shields.io/badge/VIT-Bhopal-ff6b35?style=for-the-badge&logo=university&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-dineshkumawat7477-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dineshkumawat7477)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dinesh%20Kumawat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-kumawat-162ab1356/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-dineshkumawat7477-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dineshkumawat7477)
 
 </div>
 
@@ -25,12 +28,14 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dinesh%20Kumawat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-kumawat-162ab1356/)
-[![GitHub](https://img.shields.io/badge/GitHub-25bcy10143-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/25bcy10143)
+[![GitHub](https://img.shields.io/badge/GitHub-dineshkumawat7477-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dineshkumawat7477)
+[![Kaggle](https://img.shields.io/badge/Kaggle-dineshkumawat7477-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dineshkumawat7477)
 [![VIT Bhopal](https://img.shields.io/badge/University-VIT%20Bhopal-ff6b35?style=for-the-badge&logo=googlescholar&logoColor=white)](https://vitbhopal.ac.in)
 
 </div>
 
 ---
+
 ## 👨‍💻 About Me
 
 ```yaml
@@ -76,8 +81,7 @@ Created a one-page visual infographic using **Canva** covering:
 - Safe internet practices
 - Professional online presence tips
 
-📎[task-1-presentation](https://github.com/dineshkumawat7477/Digital_Literacy_project/tree/29444b152d4fe4c21dfa9bf092054efc5ad3a08a/task-1-presentation)
-
+📎 [View Task 1 → task-1-presentation/](https://github.com/dineshkumawat7477/Digital_Literacy_project/tree/29444b152d4fe4c21dfa9bf092054efc5ad3a08a/task-1-presentation)
 
 ---
 
@@ -87,11 +91,11 @@ Set up foundational professional profiles on:
 
 | Platform | Purpose | Link |
 |----------|---------|------|
-| **GitHub** | Code repositories & project showcase | [github.com/25bcy10143](https://github.com/25bcy10143) |
+| **GitHub** | Code repositories & project showcase | [github.com/dineshkumawat7477](https://github.com/dineshkumawat7477) |
 | **LinkedIn** | Professional networking & career growth | [Dinesh Kumawat](https://www.linkedin.com/in/dinesh-kumawat-162ab1356/) |
-| **Kaggle** | Data science learning & competitions | — |
+| **Kaggle** | Data science learning & competitions | [dineshkumawat7477](https://www.kaggle.com/dineshkumawat7477) |
 
-📎 [View Screenshots → task-2-portfolio/](./task-2-portfolio/)](https://github.com/dineshkumawat7477/Digital_Literacy_project/tree/29444b152d4fe4c21dfa9bf092054efc5ad3a08a/task-2-portfolia)
+📎 [View Screenshots → task-2-portfolio/](https://github.com/dineshkumawat7477/Digital_Literacy_project/tree/29444b152d4fe4c21dfa9bf092054efc5ad3a08a/task-2-portfolia)
 
 ---
 
@@ -102,7 +106,7 @@ Set up foundational professional profiles on:
 
 🔗 Google Form Quiz Link: *(add your form link here after creating it)*
 
-📎 https://github.com/dineshkumawat7477/Digital_Literacy_project/tree/29444b152d4fe4c21dfa9bf092054efc5ad3a08a/task-3-platform
+📎 [View Task 3 → task-3-platforms/](https://github.com/dineshkumawat7477/Digital_Literacy_project/tree/29444b152d4fe4c21dfa9bf092054efc5ad3a08a/task-3-platform)
 
 ---
 
@@ -113,7 +117,7 @@ Set up foundational professional profiles on:
   - Email to internship coordinator expressing interest
 - Created a **Social Media Do's and Don'ts** checklist for college students
 
-📎 [View Files → task-4-email-etiquette/](./task-4-email-etiquette/)](https://github.com/dineshkumawat7477/Digital_Literacy_project/tree/29444b152d4fe4c21dfa9bf092054efc5ad3a08a/task-4-email-etiquette)
+📎 [View Files → task-4-email-etiquette/](https://github.com/dineshkumawat7477/Digital_Literacy_project/tree/29444b152d4fe4c21dfa9bf092054efc5ad3a08a/task-4-email-etiquette)
 
 ---
 
@@ -123,7 +127,7 @@ Set up foundational professional profiles on:
 - **Prevention Checklist:** 8+ actionable safety tips for college students, including UPI/financial safety
 - **Report Portal:** [cybercrime.gov.in](https://cybercrime.gov.in) | Helpline: **1930**
 
-📎 [View Files → task-5-cybercrime/](./task-5-cybercrime/)](https://github.com/dineshkumawat7477/Digital_Literacy_project/tree/29444b152d4fe4c21dfa9bf092054efc5ad3a08a/task-5-cybercrime)
+📎 [View Files → task-5-cybercrime/](https://github.com/dineshkumawat7477/Digital_Literacy_project/tree/29444b152d4fe4c21dfa9bf092054efc5ad3a08a/task-5-cybercrime)
 
 ---
 
@@ -146,9 +150,9 @@ Set up foundational professional profiles on:
 
 <div align="center">
 
-![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=25bcy10143&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dineshkumawat7477&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=25bcy10143&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshkumawat7477&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
