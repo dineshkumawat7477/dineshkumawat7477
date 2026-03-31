@@ -35,8 +35,6 @@ role       : Student | Digital Literacy Ambassador
 
 ---
 
-## 🔗 Connect With Me
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dinesh%20Kumawat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-kumawat-162ab1356/)
