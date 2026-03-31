@@ -69,18 +69,6 @@ digital-literacy-project/
 
 ---
 
-### 📋 Module Summaries
-
-| # | Task | Module | Marks | Status |
-|---|------|--------|-------|--------|
-| 1 | 🎨 Digital Literacy Infographic | Module 1 – Digital Tools | 20 | ✅ |
-| 2 | 🌐 Student Digital Portfolio | Module 2 – Online Presence | 20 | ✅ |
-| 3 | 💻 Coding & Collaboration Platforms | Module 3 – Platforms | 20 | ✅ |
-| 4 | 📧 Professional Email & Etiquette Guide | Module 4 – Communication | 20 | ✅ |
-| 5 | 🔒 Cybercrime Awareness Case Study | Module 5 – Cybersecurity | 20 | ✅ |
-
----
-
 ### 🎨 Task 1 – Digital Literacy Infographic
 
 Created a one-page visual infographic using **Canva** covering:
@@ -104,7 +92,7 @@ Set up foundational professional profiles on:
 | **LinkedIn** | Professional networking & career growth | [Dinesh Kumawat](https://www.linkedin.com/in/dinesh-kumawat-162ab1356/) |
 | **Kaggle** | Data science learning & competitions | — |
 
-📎 [View Screenshots → task-2-portfolio/](./task-2-portfolio/)
+📎 [View Screenshots → task-2-portfolio/](./task-2-portfolio/)](https://github.com/dineshkumawat7477/Digital_Literacy_project/tree/29444b152d4fe4c21dfa9bf092054efc5ad3a08a/task-2-portfolia)
 
 ---
 
@@ -115,7 +103,7 @@ Set up foundational professional profiles on:
 
 🔗 Google Form Quiz Link: *(add your form link here after creating it)*
 
-📎 [View Screenshots → task-3-platforms/](./task-3-platforms/)
+📎 https://github.com/dineshkumawat7477/Digital_Literacy_project/tree/29444b152d4fe4c21dfa9bf092054efc5ad3a08a/task-3-platform
 
 ---
 
@@ -126,7 +114,7 @@ Set up foundational professional profiles on:
   - Email to internship coordinator expressing interest
 - Created a **Social Media Do's and Don'ts** checklist for college students
 
-📎 [View Files → task-4-email-etiquette/](./task-4-email-etiquette/)
+📎 [View Files → task-4-email-etiquette/](./task-4-email-etiquette/)](https://github.com/dineshkumawat7477/Digital_Literacy_project/tree/29444b152d4fe4c21dfa9bf092054efc5ad3a08a/task-4-email-etiquette)
 
 ---
 
@@ -136,7 +124,7 @@ Set up foundational professional profiles on:
 - **Prevention Checklist:** 8+ actionable safety tips for college students, including UPI/financial safety
 - **Report Portal:** [cybercrime.gov.in](https://cybercrime.gov.in) | Helpline: **1930**
 
-📎 [View Files → task-5-cybercrime/](./task-5-cybercrime/)
+📎 [View Files → task-5-cybercrime/](./task-5-cybercrime/)](https://github.com/dineshkumawat7477/Digital_Literacy_project/tree/29444b152d4fe4c21dfa9bf092054efc5ad3a08a/task-5-cybercrime)
 
 ---
 
