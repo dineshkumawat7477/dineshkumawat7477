@@ -89,7 +89,8 @@ Created a one-page visual infographic using **Canva** covering:
 - Safe internet practices
 - Professional online presence tips
 
-📎 [View Infographic → task-1-presentation]
+📎[task-1-presentation](https://github.com/dineshkumawat7477/Digital_Literacy_project/tree/29444b152d4fe4c21dfa9bf092054efc5ad3a08a/task-1-presentation)
+
 
 ---
 
