@@ -20,6 +20,17 @@
 
 ---
 
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dinesh%20Kumawat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-kumawat-162ab1356/)
+[![GitHub](https://img.shields.io/badge/GitHub-25bcy10143-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/25bcy10143)
+[![VIT Bhopal](https://img.shields.io/badge/University-VIT%20Bhopal-ff6b35?style=for-the-badge&logo=googlescholar&logoColor=white)](https://vitbhopal.ac.in)
+
+</div>
+
+---
 ## 👨‍💻 About Me
 
 ```yaml
@@ -32,16 +43,6 @@ role       : Student | Digital Literacy Ambassador
 ```
 
 > 🌱 I'm a first-year B.Tech student at VIT Bhopal, currently exploring the vast world of technology and digital tools. I hope to learn how to build secure, meaningful digital solutions and use technology to make a positive impact — one line of code at a time.
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dinesh%20Kumawat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-kumawat-162ab1356/)
-[![GitHub](https://img.shields.io/badge/GitHub-25bcy10143-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/25bcy10143)
-[![VIT Bhopal](https://img.shields.io/badge/University-VIT%20Bhopal-ff6b35?style=for-the-badge&logo=googlescholar&logoColor=white)](https://vitbhopal.ac.in)
-
-</div>
 
 ---
 
